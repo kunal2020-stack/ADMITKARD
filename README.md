@@ -31,7 +31,7 @@
      -->Fill up the registeration form                      
      
 ## Step 7:                        
->Right click the webpage2 projedt and run it on server
+>Right click the webpage2 project and run it on server                                                                                                           
      -->Fill the email which details you want to find and click show it will fetch you the data for the user registered with particular mail
 
 
